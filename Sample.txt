@@ -1,1 +1,2 @@
 Hello! This is a sample text to check merge conflict occurs or not.
+I am in subbranch2
